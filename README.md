@@ -2,8 +2,9 @@
 
 Aplicativo de divisão de um valor total entre pessoas.
 
-// Skills para o desenvolvimento do app:
+## Skills para o desenvolvimento do app:
 Conceitos em manipulação de dados entre as segues; constraints; storyboard; lógica de programação.
+
 
 # View 1
 Entra-se com o valor total da conta (bill). Em seguida, escolhe-se o valor da porcentagem de acréscimo (tip) e qual o número de divisão (split).
