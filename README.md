@@ -1,9 +1,9 @@
 # app-Tipsy
 
-Aplicativo de divisão de um valor total entre pessoas.
+Aplicativo de divisão de um valor total entre pessoas, com acréscimo de taxas.
 
 ## Skills para o desenvolvimento do app:
-Conceitos em manipulação de dados entre as segues; constraints; storyboard; lógica de programação.
+Navegação por meio de segues; Constraints; Storyboard; Lógica de programação.
 
 
 # View 1
